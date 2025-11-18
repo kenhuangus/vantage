@@ -1,6 +1,6 @@
 # Vantage - AI Document Intelligence
 
-![Vantage Logo](./vantage-logo.png)
+![Vantage Logo](./vantage.png)
 
 **Vantage** is a cutting-edge AI editorial assistant designed to transform Google Docs into dynamic, intelligent workspaces. Leveraging the power of **Google's Gemini 3.0 and 2.5 models**, Vantage acts as a proactive collaborator, offering deep structural rewrites, real-time voice discussions, fact-checking, and instant visual asset generation.
 
